@@ -3,6 +3,8 @@
 ---
 ## Better Job Finder
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/better-job-finder)
+
+
 Create a user friendly platform that pulls jobs from multiple sources and allows you to label and train your own recommendation model based on the entire job description.
 
 ---
