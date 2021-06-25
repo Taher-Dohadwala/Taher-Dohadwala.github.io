@@ -5,8 +5,9 @@
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/better-job-finder)
 
 
-Create a user friendly platform that pulls jobs from multiple sources and allows you to label and train your own recommendation model based on the entire job description.
+![demo](https://user-images.githubusercontent.com/23107070/123326306-13e20900-d507-11eb-8de6-6b5467550a01.gif)
+
+
+Developed a bring your own model job search platform, where you can label and train your own personalized recommendation model.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
