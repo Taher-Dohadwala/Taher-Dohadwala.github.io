@@ -1,4 +1,12 @@
-# Portfolio
+# **Project Portfolio**
+
+# Table of Contents
+1. [Machine Learning](#machine-learning)
+2. [Data Science](#data-science)
+3. [Software Engineering](#software-engineering)
+
+
+# Machine Learning
 
 ---
 ## Job Recommendation Platform
@@ -9,5 +17,25 @@
 
 
 To develop a "bring your own model" job search platform where you can label and train your own personalized recommendation model.
+
+---
+
+# Data Science
+
+---
+## Telecom Churn Analysis
+
+---
+
+# Software Engineering
+
+---
+## Purdue Club Tennis Leagues
+
+---
+
+
+---
+## Nima Investments Statement Generator
 
 ---
