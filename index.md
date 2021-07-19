@@ -8,11 +8,13 @@
 
 [Software Engineering](#software-engineering)
 
+---
+
 
 # Machine Learning
 
 ---
-## Job Recommendation Platform
+### Job Recommendation Platform
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/better-job-finder)
 
 
@@ -25,20 +27,16 @@ To develop a "bring your own model" job search platform where you can label and 
 
 # Data Science
 
----
-## Telecom Churn Analysis
+### Telecom Churn Analysis
 
 ---
 
 # Software Engineering
 
----
-## Purdue Club Tennis Leagues
-
----
+### Purdue Club Tennis Leagues
 
 
 ---
-## Nima Investments Statement Generator
+### Nima Investments Statement Generator
 
 ---
