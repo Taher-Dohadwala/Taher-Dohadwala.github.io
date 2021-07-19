@@ -1,9 +1,8 @@
 # **Project Portfolio**
 
-# Table of Contents
-1. [Machine Learning](#machine-learning)
-2. [Data Science](#data-science)
-3. [Software Engineering](#software-engineering)
+[Machine Learning](#machine-learning)
+[Data Science](#data-science)
+[Software Engineering](#software-engineering)
 
 
 # Machine Learning
