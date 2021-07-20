@@ -1,12 +1,12 @@
 # **Project Portfolio**
 
-[Machine Learning](##machine-learning)
+[Machine Learning](#machine-learning)
 
 
-[Data Science](##data-science)
+[Data Science](#data-science)
 
 
-[Software Engineering](##software-engineering)
+[Software Engineering](#software-engineering)
 
 ---
 
@@ -21,7 +21,7 @@
 ![demo](https://user-images.githubusercontent.com/23107070/123326306-13e20900-d507-11eb-8de6-6b5467550a01.gif)
 
 To develop a "bring your own model" job search platform where you can label and train your own personalized recommendation model.
-<details open>
+<details>
 <summary>Show More</summary>
 <p>
 Job titles often have different underlying roles. When looking for a job with a particular role, the job title alone cannot guarantee a role matching what you are looking for.
