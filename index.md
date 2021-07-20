@@ -1,17 +1,17 @@
 # **Project Portfolio**
 
-[Machine Learning](#machine-learning)
+[Machine Learning](##machine-learning)
 
 
-[Data Science](#data-science)
+[Data Science](##data-science)
 
 
-[Software Engineering](#software-engineering)
+[Software Engineering](##software-engineering)
 
 ---
 
 
-# Machine Learning
+## Machine Learning
 
 ---
 ### Job Recommendation Platform
@@ -32,13 +32,13 @@ For example, the job title "Data Scientist" is generic, and contains different j
 
 ---
 
-# Data Science
+## Data Science
 
 ### Telecom Churn Analysis
 
 ---
 
-# Software Engineering
+## Software Engineering
 
 ### Purdue Club Tennis Leagues
 
