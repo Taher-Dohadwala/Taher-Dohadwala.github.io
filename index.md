@@ -1,5 +1,6 @@
 # Personal Projects
 
+<br>
 
 ## Serve Buddy
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-green?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/serve-buddy)
@@ -16,6 +17,7 @@ This project makes use of a multi-class serve breakdown classifier, pose estimat
 </p>
 </details>  
 
+<br>
 
 ## Job Recommendation Platform
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/better-job-finder)
