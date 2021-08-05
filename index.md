@@ -1,6 +1,6 @@
-# **Personal Projects**
+# Personal Projects
 
----
+
 ## Serve Buddy
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-green?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/serve-buddy)
 
@@ -12,12 +12,11 @@ Deploy a real time voice assistant tennis serve coach using edge technology. The
 <summary>Show More</summary>
 <p>
 
-This project makes use of a multi-class serve breakdown classifier, pose estimation model, and NLP models. Deployed on a raspberry pi 4 to work on the tennis court all on device.
+This project makes use of a multi-class serve breakdown classifier, pose estimation model, and NLP models. Deployed on a raspberry pi 4 to work all on device on the tennis court.
 </p>
 </details>  
 
 
----
 ## Job Recommendation Platform
 [![Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?style=flat&logo=GitHub)](https://github.com/Taher-Dohadwala/better-job-finder)
 
@@ -36,11 +35,3 @@ For example, the job title "Data Scientist" is generic, and contains different j
 </p>
 </details>  
 
----
-## Purdue Club Tennis Leagues
-
-
----
-## Nima Investment's Monthly Statement Automation
-
----
