@@ -12,8 +12,8 @@ Deploy a real time voice assistant tennis serve coach using edge technology. The
 <details>
 <summary>Show More</summary>
 <p>
-
-This project makes use of a multi-class serve breakdown classifier, pose estimation model, and NLP models. Deployed on a raspberry pi 4 to work all on device on the tennis court.
+<br>
+This project makes use of a multi-class serve breakdown classifier, pose estimation model, and NLP models. Deployed on a raspberry pi 4 with a Google Coral TPU Accelerator, to work entirely on device.
 </p>
 </details>  
 
@@ -25,12 +25,12 @@ This project makes use of a multi-class serve breakdown classifier, pose estimat
 
 ![demo](https://user-images.githubusercontent.com/23107070/123326306-13e20900-d507-11eb-8de6-6b5467550a01.gif)
 
-To develop a "bring your own model" job search platform where you can label and train your own personalized recommendation model on the full descrption of a job post.
+Develop a "bring your own model" job search platform. Where you can label and train your own personalized recommendation model on the full descrption of a job post.
 
 <details>
 <summary>Show More</summary>
 <p>
-  
+<br>
 Job titles often have different underlying roles. When looking for a job with a particular role, the job title alone cannot guarantee a role matching what you are looking for.
 
 For example, the job title "Data Scientist" is generic, and contains different job roles; Data engineer, Data analyst, and ML engineer. The problem with job posting websites is that the particular data science role you are looking for is filled with the noise of the other roles. By having a recommendation model that is based on your own preferences, it can help to reduce noise in the job search space.
