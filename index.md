@@ -7,7 +7,7 @@
 
 ![serve](https://user-images.githubusercontent.com/23107070/128404347-79bafcd1-097b-45cd-a03e-034154c2bcbd.png)
 
-Deploy a real time voice assistant tennis serve coach using edge technology. The AI coach will assess your serve and verbally give feedback to identify incorrect biomechanics.
+Developed a virtual assistant tennis coach that adapts to your serve technique and identifies form mistakes to improve serve consistency.
 
 <details>
 <summary>Show More</summary>
@@ -25,7 +25,7 @@ This project makes use of a multi-class serve breakdown classifier, pose estimat
 
 ![demo](https://user-images.githubusercontent.com/23107070/123326306-13e20900-d507-11eb-8de6-6b5467550a01.gif)
 
-Develop a "bring your own model" job search platform. Where you can label and train your own personalized recommendation model on the full descrption of a job post.
+Created a job search platform where user-informed personalized models recommend relevant jobs.
 
 <details>
 <summary>Show More</summary>
